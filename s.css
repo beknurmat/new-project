@@ -1,5 +1,6 @@
 .content{
-    color: blue;
+    color: red;
     display: flex;
-    justify-content: space-evenly;
+    font-size: 25px;
+    
 }
